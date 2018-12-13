@@ -35,7 +35,7 @@ api.get('/takenet/CSharp/', (req, res) => {
         }
 
         res.type('application/json');
-        res.json(JSON.stringify(repositorios));
+        res.json(repositorios);
     });
 });
 
