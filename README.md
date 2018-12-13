@@ -14,3 +14,7 @@ Instalar a dependência *[Restler](https://github.com/danwrong/restler)*
 
 Para executar o servidor
 * nodemon api
+
+Heroku
+* heroku login
+* git push heroku master
