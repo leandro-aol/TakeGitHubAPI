@@ -1,0 +1,24 @@
+{
+  "name": "take-github-api",
+  "version": "1.0.0",
+  "description": "API intermediária para consumir dados da API do GitHub",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api.js"
+  },
+  "keywords": [
+    "take",
+    "github",
+    "api"
+  ],
+  "author": "Leandro Andrade de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "restler": "^3.4.0"
+  },
+  "engines": {
+    "node": "10.14.2"
+  }
+}
